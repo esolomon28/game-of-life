@@ -164,6 +164,7 @@
             <artifactId>fest-assert</artifactId>
             <version>1.4</version>
         </dependency>
+        <!-- Commented this because of duplicate jar at build time -->
         <!-- <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-simple</artifactId>
